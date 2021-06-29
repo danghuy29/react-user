@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "name":"Đặng Phạm Nhật Huy",
+        "tel":"0793520985",
+        "Permission":1
+    },{
+        "id":2,
+        "name":"Nguyễn Phạm Huy Hoàng",
+        "tel":"0905159074",
+        "Permission":2
+    },{
+        "id":3,
+        "name":"Đặng Nhật Phương Uyên",
+        "tel":"0972889470",
+        "Permission":3
+    },{
+        "id":4,
+        "name":"Nguyễn Phạm Nhật Trường",
+        "tel":"0124653265",
+        "Permission":1
+    },{
+        "id":5,
+        "name":"Nguyễn Thị Tuyết Hương",
+        "tel":"07854632599",
+        "Permission":2
+    },{
+        "id":6,
+        "name":"Đặng Trần Anh Đại",
+        "tel":"02583813373",
+        "Permission":3
+    },{
+        "id":7,
+        "name":"Đặng Trần Trung Nguyên",
+        "tel":"02583810726",
+        "Permission":3
+    },{
+        "id":8,
+        "name":"Phạm Trần Như Quỳnh",
+        "tel":"07953959652",
+        "Permission":2
+    },{
+        "id":9,
+        "name":"Phạm Huy Tùng",
+        "tel":"07256931268",
+        "Permission":3
+    },{
+        "id":10,
+        "name":"Đặng Phạm Nhật Hoàng",
+        "tel":"01258935923",
+        "Permission":3
+    }
+]
